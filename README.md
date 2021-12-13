@@ -1,4 +1,4 @@
 - 👋 Alô, somos a @apgunicamp!
-- 👀 Somos a Associação de Pós-Graduandas e Pós-Graduandos da Universidade Estadual de Campinas
+- 👀 Somos a Associação Central de Pós-Graduação da Universidade Estadual de Campinas
 - 🌱 Estamos aprendendo a mexer em tudo isso aqui e manter nosso site no ar
 - 📫 Você pode nos contatar via e-mail: apgunicamp@gmail.com
